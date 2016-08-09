@@ -1,0 +1,52 @@
+*{
+	font-family: verdana;
+}
+.menu{
+	background-color: black;
+	margin:0px;
+}
+li{
+	display: inline-block;
+	text-decoration: none;
+	color:gray;
+	margin:20px;
+	font-size:14px;
+}
+.logo{
+	font-size: 35px;
+	margin-top:7px;
+}
+.mini-iconos{
+	height: 25px;
+	width: 25px;
+	margin:6px;
+	color:black;
+}
+footer{
+	background:black;
+	margin:0px;
+	margin-top:40px;
+}
+button{
+	border-radius: 40%;
+	background:gray;
+	height:45px;
+	width:105px;
+}
+.back-gris{
+	background-color: #e1e1e1;
+}
+.back-blanco{
+	background-color: white;
+	height:1990px;
+}
+.chica, hr{
+margin-left: 60px
+}
+.alinear{
+	margin-left: 45px;
+}
+.all{
+	margin-left:25px;
+	padding-bottom
+}
