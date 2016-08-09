@@ -3,8 +3,9 @@ section{
 }
 h2,h3{
 	color:gray;
+	font-family: 'Roboto Slab', serif;
 }
 p{
 	color:black;
 	font-size: 14px;
-}
+	font-family: 'Roboto', sans-serif;
