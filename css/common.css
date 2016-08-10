@@ -9,3 +9,19 @@ p{
 	color:black;
 	font-size: 14px;
 	font-family: 'Roboto', sans-serif;
+}
+button{
+	border-radius: 10%;
+	background:gray;
+	height:45px;
+	width:105px;
+	color:white;
+	font-family: 'Roboto', sans-serif;
+	font-size:16px;
+}
+.mini-iconos{
+	height: 25px;
+	width: 25px;
+	margin:6px;
+	color:gray;
+}
